@@ -1,0 +1,15 @@
+GUESTBOOK
+-----------------------------------------------------------------------------------
+This is a simple demo application about Google App Engine.
+Complete tutorial is available here:
+https://cloud.google.com/appengine/docs/java/gettingstarted/introduction
+
+Concepts involved
+-----------------------------------------------------------------------------------
+Google App Engine: create a simple application that you can deploy in GAE
+Google Accounts: integrate with Google Accounts for user authentication
+App Engine Datastore: use a NoSQL, schema-less database available in GAE
+Maven: create, test and deploy apps for GAE with the maven appengine plugin
+
+
+
