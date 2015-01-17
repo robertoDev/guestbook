@@ -11,5 +11,16 @@ Google Accounts: integrate with Google Accounts for user authentication
 App Engine Datastore: use a NoSQL, schema-less database available in GAE
 Maven: create, test and deploy apps for GAE with the maven appengine plugin
 
+Tutorial steps
+-----------------------------------------------------------------------------------
+- Download JDK Java
+- Download Maven
+- Create project with maven: appengine-skeleton-archetype
+- Create a new project in Google Developers Console
+- Add application code and UI
+- Build and testing the app with maven
+- Manage datastore to
+- Upload the app to production App Engine
+
 
 
